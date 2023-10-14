@@ -1,5 +1,5 @@
 # Colors
-Homework application.
+Homework application
 
 There are also:
 - 13 **unit** tests and
